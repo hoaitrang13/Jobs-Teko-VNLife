@@ -33,20 +33,17 @@
 - Kỹ năng giao tiếp trong nhóm, ngoài nhóm hiệu quả
 - Tư duy logic tốt
 ### Quyền Lợi:
-- Mức lương thỏa thuận theo năng lực. Đóng bảo hiểm trên lương thực nhận
-- Được tham gia các chương trình đào tạo về chuyên môn và kỹ năng với các chuyên gia giàu kinh nghiệm
-- Chế độ đãi ngộ hấp dẫn cạnh tranh với các công ty khác trên thị trường: hỗ trợ cơm trưa, cung cấp hoa quả và đồ uống miễn phí tại văn phòng….
-- Môi trường làm việc cởi mở, trẻ trung, nhiều cơ hội thăng tiến trong công việc
-- Lương tháng 13
-- Thưởng hàng năm theo đánh giá năng lực(KPI) của cá nhân và kết quả kinh doanh của công ty
-- Hưởng đầy đủ các chế độ BHXH, được tham gia bảo hiểm Generali theo chính sách riêng của công ty với rất nhiều quyền lợi dành cho người lao động khi tham gia bảo hiểm này.
-- Được tham gia các chương trình teambuilding, nghỉ mát công ty tổ chức hàng năm
-- Có 14 ngày phép/ năm và nghỉ ốm nguyên lương 6 ngày/năm
-- Làm việc từ thứ 2 đến thứ 6. Thời gian làm việc từ 9:00 AM đến 6:00 PM
+- Mức lương thỏa thuận theo năng lực (13 tháng lương + thưởng hiệu quả công việc);
+- Chế độ đãi ngộ hấp dẫn cạnh tranh: hỗ trợ cơm trưa, gửi xe, free cafe, daily food....
+- Môi trường làm việc cởi mở, trẻ trung, nhiều cơ hội thăng tiến trong công việc;
+- Hưởng bảo hiểm 100% lương thực nhận, được công ty mua bảo hiểm bảo lãnh 24h Generali theo chính sách dành
+riêng cho nhân viên Teko;
+- Được tham gia các chương trình teambuilding, nghỉ mát công ty tổ chức hàng quý/năm;
+- Có 18 ngày nghỉ nguyên lương (12 ngày phép/năm + 6 ngày ốm/năm);
 
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document.
 
-> Write an email with the subject line: "Your name apply for the position: DevOps Engineer" & attach your latest CV, phone number and your submit. And then, send it to [trang.pth@teko.vn](trang.tph@teko.vn)
+> Write an email with the subject line: "Your name apply for the position: QC Engineer (L2)" & attach your latest CV, phone number and your submit. And then, send it to [trang.pth@teko.vn](trang.tph@teko.vn)
 
 **Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/Skype: hoaitrang13**
