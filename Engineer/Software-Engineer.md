@@ -23,12 +23,12 @@ As a highly motivated Senior/Software engineer to join our growing, talented tec
 - Distributed systems: Elasticsearch, Apache Spark
 - Databases: MongoDB, Redis, MySQL
 ### Benefits
-Negotiable salary according to qualification (13th month salary + KPI Bonus) ;
-The working environment is open, energetic and professional. More opportunities for career promotion;
-Free Food & Drink: Providing lunch, Fresh fruit/cake, Coffee,Tea & Beer.
-Full benefit with social insurance. Annual health check and Generali insurance under the company’s own policy;
-Employee Relationship: company trip, monthly team building;
-Leave Paid: 12 days for annual leave & 6 days for sick leave (max 18days)
+- Negotiable salary according to qualification (13th month salary + KPI Bonus) ;
+- The working environment is open, energetic and professional. More opportunities for career promotion;
+- Free Food & Drink: Providing lunch, Fresh fruit/cake, Coffee,Tea & Beer.
+- Full benefit with social insurance. Annual health check and Generali insurance under the company’s own policy;
+- Employee Relationship: company trip, monthly team building;
+- Leave Paid: 12 days for annual leave & 6 days for sick leave (max 18days)
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document.
 
