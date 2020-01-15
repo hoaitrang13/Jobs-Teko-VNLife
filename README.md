@@ -18,7 +18,8 @@ Hệ sinh thái VNLife ngày càng mở rộng với sự phát triển của [T
 Báo chí nói gì về VNlife và thương vụ rót vốn 300 triệu đô năm 2019
 ![vnlife](https://lh3.googleusercontent.com/P0CkGnXCMVr21uQmmPS4FJvHumy8uqhCLhMFikdkqd1Yq6LYMje9dYH8fd4b3wFSmSEZ0EkX8ht0W9SlVaXLKmGTu6SwquYQl8aaLiQAXhG4p0ZzwC-spmSbp9F5eVZSQ4q7Go569Miz0mupmaTW-LscX1a5mYfxb7jQH9Hq1f0AB_M1i61-0-OgiF8AD8bw-2Kd5yvrFMUMa347i05f3NuC6mzTaSSgWG-hRb2esC8RuM_G5M6qdKRWszLd98XHHwDGObAQzTTraK7JbTi9y9ssUW2bH46lYI8pM_rqp239mgjEzkblIUE-JjS0RejJhlDHzuFDmLg24sqUYSufajP7xJs1MzYrPYIOTK-73oTiREA-vQEBPPVt9QGmW9UzFqYoAC3skYvZoJIaOiF29sBJkwc9qfSskNyC1pdTyYrNXKPX1a--UPdE0dpTe0DvBKH0lzBvBoZ-o49fQtFvsCODxcvIPOg1cKDgB1eCG_M1Gt5xcj4o04l83fyWb8g0_cSRKJSos3EpvJDgNJM_xyL9j-JK2Si0w838cyH19qDZWuK0SHadKtO_wnDVLM6-IZamGih67C1Bz0l5op7TKqTVqy3oBrtrVba1uwUu6EKdaKFNAmdxKw_GfvdMQOxGYtZ_xeHKqTZohsQZPP9GYGvG5Gn7IKwATZCuArG8SRltDnLdrdDJZzU=w819-h947-no)
 
-* Bạn muốn trở thành cộng sự của Teko-ers để phát triển các product có giá trị cho người Việt Nam? Đội phũ phát triển của Teko không ngừng lỗ lực xây dựng môi trường phát triển sản phẩm và con người toàn diện đang tìm bạn!!!
+*
+Bạn muốn trở thành cộng sự của Teko-ers để phát triển các product có giá trị cho người Việt Nam? Đội phũ phát triển của Teko không ngừng lỗ lực xây dựng môi trường phát triển sản phẩm và con người toàn diện đang tìm bạn!!!
 > Bạn là Engineer? Tham khảo các cơ hội tại [Engineer](https://github.com/hoaitrang13/VNLife-Teko-Tech-JSC.-Opportunities/tree/master/Engineer)
 
 > Bạn quan tâm đến Product/Market? Thao khảo cơ hội tại: [Product](https://github.com/hoaitrang13/VNLife-Teko-Tech-JSC.-Opportunities/tree/master/Product)
