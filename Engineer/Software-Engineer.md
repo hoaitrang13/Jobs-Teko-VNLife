@@ -1,5 +1,5 @@
 ## Senior/ Software Enigneer
-As a highly motivated Senior/Software engineer to join our growing, talented tech engineering team based in both Hanoi or HCM city.
+> As a highly motivated **Senior/Software engineer** to join our growing, talented tech engineering team based in both Hanoi or HCM city.
 
 ### The work:
 - You will be part of an agile team, working closely with product managers, designers and technical leads to ideate, prototype, build and test new products or features. In short, you take ownership of your work and leads the effort from architecture, implementation, deployment and testing.
@@ -26,5 +26,4 @@ As a highly motivated Senior/Software engineer to join our growing, talented tec
 > Follow these steps to have a highly appreciated document.
 
 > Write an email with the subject line: "Your name apply for the position: Senior/Software Engineer" & attach your latest CV, phone number and your submit. And then, send it to [trang.pth@teko.vn](trang.tph@teko.vn)
-
-### Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/Skype: hoaitrang13
+**Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/Skype: hoaitrang13**
