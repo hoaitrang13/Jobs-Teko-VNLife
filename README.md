@@ -1,2 +1,2 @@
-# VNLife-Teko-Tech-JSC.-Opportunities
-Tổng hợp
+## VNLife-Teko-Tech-JSC.-Opportunities
+Nằm trong hệ sinh thái của VNLIFE, Teko Vietnam được thành lập vào 13/01/2017 với mục tiêu sử dụng công nghệ giúp bán lẻ đa kênh đơn giản hơn. Đội ngũ giàu kinh nghiệm của Teko làm việc, chia sẻ và đồng hành cùng nhau trong việc phát triển các giải pháp, sản phẩm công nghệ O2O phục vụ cho lĩnh vực New Retail/E-Commerce như ERP, Data Platform, Marketplace, Omni-Channel Retail, WMS, Logistics & Delivery Management
