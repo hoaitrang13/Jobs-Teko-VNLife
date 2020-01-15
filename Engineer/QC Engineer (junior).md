@@ -1,5 +1,5 @@
-# QC Engineer (junior)
-> Chúng tôi đang tìm Nhân viên kiểm thử phần mềm để phối hợp với team đảm bảo các sản phẩm phần mềm không có lỗi trước khi đến tay người dùng cuối
+# QC Engineer (Auto)
+> Chúng tôi đang tìm **Nhân viên kiểm thử phần mềm** để phối hợp với team đảm bảo các sản phẩm phần mềm không có lỗi trước khi đến tay người dùng cuối
 
 ### Mô Tả Công Việc:
 - Tham gia xây dựng kế hoạch kiểm thử (Test plan)
@@ -17,7 +17,7 @@
 - Làm việc độc lập/ đội nhóm, chịu được áp lực và hoàn thành mục tiêu được giao đúng hạn
 - Nắm bắt nghiệp vụ nhanh, tiếp nhận và xử lý thông tin tốt.
 2. Kiến thức & kinh nghiệm làm việc
-- Có ít nhất 1 năm kinh nghiệm trong lĩnh vực liên quan
+- Tốt nghiệp ngành khoa học máy tính, công nghệ thông tin hoặc các chuyên ngành có liên quan và có tối thiểu 1 năm kinh nghiệm trong vị trí tương tự.
 - Có kiến thức tốt về qui trình kiểm thử phần mềm
 - Hiểu rõ vòng đời lỗi (bug lifecycle)
 - Có kiến thức sâu về kiểm thử tính năng (functional testing )
