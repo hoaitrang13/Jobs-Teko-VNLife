@@ -25,4 +25,6 @@ Teko is looking for a highly motivated Senior/Software engineer to join our grow
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document.
 
-> Write an email with the subject line: "Your name apply for the position: Senior/Software Engineer (Web Front-end)" & attach your latest CV, phone number and your submit. And then, send it to [tuyendung@teko.vn](tuyendung@teko.vn)
+> Write an email with the subject line: "Your name apply for the position: Senior/Software Engineer (Web Front-end)" & attach your latest CV, phone number and your submit. And then, send it to [trang.pth@teko.vn](trang.tph@teko.vn)
+
+### Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/Skype: hoaitrang13
