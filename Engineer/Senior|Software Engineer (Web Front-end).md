@@ -1,4 +1,4 @@
-## Senior / Software Engineer (Web Front-end)
+## Senior/ Software Engineer (Web Front-end)
 > Teko is looking for a highly motivated **Senior/Software engineer** to join our growing, talented engineering team based in both Hanoi, Da Nang or HCM city.
 
 ### The work:
