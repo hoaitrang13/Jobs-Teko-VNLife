@@ -24,5 +24,5 @@ Bạn muốn trở thành cộng sự của Teko-ers để phát triển các pr
 
 > Bạn quan tâm đến Product/Market? Thao khảo cơ hội tại: [Product](https://github.com/hoaitrang13/VNLife-Teko-Tech-JSC.-Opportunities/tree/master/Product)
 
-Luôn sẵn sàng để hỗ trợ: Trang.pth@teko.vn - 038 377 05 12.
-Fb/Linkedin/skype: hoaitrang13
+* Quan tâm tới đội ngũ của Teko/Vnlife - ping hotline: Trang.pth@teko.vn - 038 377 05 12.
+* Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/skype: hoaitrang13
