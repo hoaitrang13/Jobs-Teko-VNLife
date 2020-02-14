@@ -16,12 +16,12 @@ Hệ sinh thái VNLife ngày càng mở rộng với sự phát triển của [T
 ![tekoventures](https://github.com/hoaitrang13/Jobs-Teko-VNLife/blob/master/Images/tekoventure.jpg?raw=true)
 
 Báo chí nói gì về VNlife và thương vụ rót vốn 300 triệu đô năm 2019
-![vnlife](https://lh3.googleusercontent.com/6WEINRcWLpXo9aH7mL1Y0VsdNwGvhExm-JDOELKtfnQjOsiP97RjYFcgA2tm7vnMTa_tbFfRm1QnVrKTZ-MO5qoWqFdJXe9NVGxzkEDxJFDDHprrJ_uKTmbMJNClXPCVPKMZEhBvLA1kpZTAYyKSBfYxuru224dpGhSE2jzBCUtuaHZY2yAkLSZoujQqKaplHAtuDElZFJMPzwq3NpwOt1-HQs-YJp_U7_MuWtOWOD0b-gJ6UrTziFqi9kQ1Ce66xCipoSUCx5GWgCEkyDqiLb_fuuG4YHlxkwgRrhW7JkXghe8XlsQnk7R4u6V21Ya1i8rqGJMf6ptiSVnscUZwu3seArINQAdldk4mT5ZEKFekWRpXw6K5sffz388BbIGaoAnpRkgTR42cbMkmrPjnPzrTApfGhiO6KEHBbLpaih6doBn7Dsr19F7akQJyEDCdqSwKINi1gz_toF4ImmUdYla0IFV0qtZfleni-HngBTtNoW9KO_MRDQKcKV3-dFq2HYgd1zRWeCZlspaMVRC2m4SCNRjRiGBuqwc7UPBTaTEiF2sp004RuhwHSmwOU5_PCBqoNM9GcoZXvmpI4zVQSObWskxq0ZSrSUVX7GcEZjOUdLpbbHCWzpOANm7CXmWzo8xQDJGxOR6zbNO9LbhuzyBGfYu3Vdn8BShHxsl05G7h993DAi16Jmw=w777-h898-no)
+![vnlife](https://github.com/hoaitrang13/Jobs-Teko-VNLife/blob/master/Images/vnlife.jpg?raw=true)
 
 Bạn muốn trở thành cộng sự của Teko-ers để phát triển các product có giá trị cho người Việt Nam? Đội phũ phát triển của Teko không ngừng lỗ lực xây dựng môi trường phát triển sản phẩm và con người toàn diện đang tìm bạn!!!
-> Bạn là Engineer? Tham khảo các cơ hội tại [Engineer](https://github.com/hoaitrang13/VNLife-Teko-Tech-JSC.-Opportunities/tree/master/Engineer)
+> Bạn là Engineer? Tham khảo các cơ hội tại [Engineer](./Engineer)
 
-> Bạn quan tâm đến Product/Market? Thao khảo cơ hội tại: [Product](https://github.com/hoaitrang13/VNLife-Teko-Tech-JSC.-Opportunities/tree/master/Product)
+> Bạn quan tâm đến Product/Market? Thao khảo cơ hội tại: [Product](./Product)
 
 * Quan tâm tới đội ngũ của Teko/Vnlife - ping hotline: Trang.pth@teko.vn - 038 377 05 12.
 * Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/skype: hoaitrang13
