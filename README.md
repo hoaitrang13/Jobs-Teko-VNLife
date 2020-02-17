@@ -17,7 +17,7 @@ Khi sự kết nối trong chuỗi sinh thái của VNLIFE vững mạnh các st
 Hệ sinh thái VNLife ngày càng mở rộng với sự phát triển của [Tekoventure Fund](https://tekoventures.vn/)
 ![tekoventures](https://github.com/hoaitrang13/Jobs-Teko-VNLife/blob/master/Images/tekoventure.jpg?raw=true)
 
-Báo chí nói về VNlife và thương vụ rót vốn 300 triệu đô năm 2019 - bạn có thể tìm theo keyword như sau:
+Tháng 7/2019, GIC và Softbank Vision Fund đã đầu tư vào Tập đoàn VNLIFE, thương vụ rót vốn 300 triệu đô đã thu hút nhiều giấy mực của báo chí:
 ![vnlife](https://github.com/hoaitrang13/Jobs-Teko-VNLife/blob/master/Images/vnlife.jpg?raw=true)
 
 Bạn quan tâm tới Teko và muốn trở thành Teko-ers để phát triển các product có giá trị cho người Việt Nam? Đội phũ phát triển của Teko không ngừng lỗ lực xây dựng môi trường phát triển sản phẩm và con người toàn diện cũng đang tìm bạn :)
