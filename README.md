@@ -4,7 +4,7 @@
 
 Năm 2019, **Teko Technology Vietnam JSC.** đã xây dựng ERP cho [Phong Vu](https://phongvu.vn/) và mục tiêu năm 2020 là xây dựng ERP cho [VNShop](https://vnhsop.vn/), hoàn chỉnh 1 số microservices cho Teko và cung cấp ra bên ngoài như: Search, Tracking, Identity, đồng thời xây dựng nền tảng hạ tầng bền vững, đảm bảo 99.9% Uptime.
 
-**Tập đoàn VNLIFE** là một hệ sinh thái với nhiều công ty thành viên trong đó có [VNPAY](https://vnpay.vn/), [Tripi](https://www.tripi.vn/), Teko cùng nhiều công ty tại các nước như Singapore, Myanmar, Campuchia… Tập đoàn phát triển với mục tiêu xây dựng hệ sinh thái đa dạng từ Công nghệ - Tài chính & Thương mại điện tử (Tech - Fin - Ecommerce) ứng dụng công nghệ thông tin phục vụ nhiều lĩnh vực: OTA, logistics, ERP, E-commerce… 
+**Tập đoàn VNLIFE** là một hệ sinh thái với nhiều công ty thành viên trong đó có [VNPAY](https://vnpay.vn/), [Tripi](https://www.tripi.vn/), Teko cùng nhiều công ty tại các nước như Singapore, Myanmar, Campuchia… Tập đoàn phát triển với mục tiêu xây dựng hệ sinh thái đa dạng từ Công nghệ - Tài chính & Thương mại điện tử ***(Tech - Fin - Ecommerce)*** ứng dụng công nghệ thông tin phục vụ nhiều lĩnh vực: OTA, logistics, ERP, E-commerce… 
 
 Hệ sinh thái VNLIFE sẽ đóng vai trò "đỡ đầu" cho các startup và tạo cơ hội để họ kết nối chặt chẽ với nhau giúp hệ sinh thái phát triển, đóng góp hiệu quả cho nền kinh tế. Sứ mệnh của VNLIFE trong thời gian tới sẽ là đồng hành, hỗ trợ các startup về mặt công nghệ, xây dựng mạng lưới, vốn để các startup không chỉ lớn mạnh ở thị trường trong nước mà còn hướng đến mục tiêu đưa được sản phẩm của họ đến nhiều quốc gia trên thế giới. Với mục tiêu tạo ra một hệ sinh thái đáp ứng gần như hoàn chỉnh mọi nhu cầu của xã hội. 
 
