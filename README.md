@@ -6,7 +6,7 @@
 Sứ mệnh của VNLIFE trong thời gian tới sẽ là đồng hành, hỗ trợ các startup về mặt công nghệ, xây dựng mạng lưới, vốn để các startup không chỉ lớn mạnh ở thị trường trong nước mà còn hướng đến mục tiêu đưa được sản phẩm của họ đến nhiều quốc gia trên thế giới.
 VNLife hiểu rằng khởi nghiệp đầu tiên quan trọng là vốn, công nghệ rồi sau đó là mô hình quản trị, tham gia chuỗi sinh thái và đưa ra thị trường. Về cơ bản, startup Việt Nam mạnh ở yếu tố ý tưởng, nhân sự tâm huyết còn các yếu tố khác vẫn thiếu.
 
-Vì vậy, hệ sinh thái VNLIFE sẽ đóng vai trò "đỡ đầu" cho các startup và tạo cơ hội để họ kết nối chặt chẽ với nhau giúp hệ sinh thái phát triển, đóng góp hiệu quả cho nền kinh tế. Khi sự kết nối trong chuỗi sinh thái của VNLIFE vững mạnh các startup sẽ vươn ra thị trường thế giới với sự hỗ trợ từ quan hệ của các nhà đầu tư số một thế giới là GIC và Softbank Vision Fund.
+Hệ sinh thái VNLIFE sẽ đóng vai trò "đỡ đầu" cho các startup và tạo cơ hội để họ kết nối chặt chẽ với nhau giúp hệ sinh thái phát triển, đóng góp hiệu quả cho nền kinh tế. Khi sự kết nối trong chuỗi sinh thái của VNLIFE vững mạnh các startup sẽ vươn ra thị trường thế giới với sự hỗ trợ từ quan hệ của các nhà đầu tư số một thế giới là GIC và Softbank Vision Fund.
 
 > **Softbank Vision Fund** là quỹ đầu tư khởi nghiệp quy mô nhất thế giới trực thuộc Softbank Group của tỷ phú Masayoshi Son với nhiều thương vụ đình đám như đầu tư vào Uber, Grab, Loggi… Thương vụ đầu tư vào VNLIFE là thương vụ đầu tiên quỹ của Softbank rót vốn tại Việt Nam.
 
