@@ -14,7 +14,7 @@ Khi sự kết nối trong chuỗi sinh thái của VNLIFE vững mạnh các st
 
 > **GIC** là một nhà đầu tư quen thuộc tại Việt Nam, khi đang nắm giữ cổ phần tại Vietcombank, Vinhomes, PAN Group. GIC là quỹ đầu tư lớn thứ 8 trên thế giới, quản lý số vốn khoảng 390 tỷ USD, theo dữ liệu của Sovereign Wealth Fund Institute.
 
-Hệ sinh thái VNLife ngày càng mở rộng với sự phát triển của [Tekoventure Fund](https://tekoventures.vn/)
+Hệ sinh thái VNLife ngày càng mở rộng với sự mở rộng của portfolio [Tekoventure](https://tekoventures.vn/)
 ![tekoventures](https://github.com/hoaitrang13/Jobs-Teko-VNLife/blob/master/Images/tekoventure.jpg?raw=true)
 
 Tháng 7/2019, GIC và Softbank Vision Fund đã đầu tư vào Tập đoàn VNLIFE, thương vụ rót vốn 300 triệu đô đã thu hút nhiều giấy mực của báo chí:
