@@ -21,7 +21,7 @@ Báo chí nói gì về VNlife và thương vụ rót vốn 300 triệu đô nă
 Bạn muốn trở thành cộng sự của Teko-ers để phát triển các product có giá trị cho người Việt Nam? Đội phũ phát triển của Teko không ngừng lỗ lực xây dựng môi trường phát triển sản phẩm và con người toàn diện đang tìm bạn!!!
 > Bạn là Engineer? Tham khảo các cơ hội tại [Engineer](./Engineer)
 
-> Bạn quan tâm đến Product/Market? Thao khảo cơ hội tại: [Product](./Product)
+> Bạn quan tâm đến Product/Market? Tham khảo cơ hội tại: [Product](./Product)
 
 * Quan tâm tới đội ngũ của Teko/Vnlife - ping hotline: Trang.pth@teko.vn - 038 377 05 12.
 * Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/skype: hoaitrang13
