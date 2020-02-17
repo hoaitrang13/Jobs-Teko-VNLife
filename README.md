@@ -2,7 +2,7 @@
 
 > Nằm trong hệ sinh thái của **VNLIFE, Teko Technology Vietnam JSC.** được thành lập vào 13/01/2017 với mục tiêu sử dụng công nghệ giúp bán lẻ đa kênh đơn giản hơn. Đội ngũ giàu kinh nghiệm của Teko làm việc, chia sẻ và đồng hành cùng nhau trong việc phát triển các giải pháp, sản phẩm công nghệ O2O phục vụ cho lĩnh vực New Retail/E-Commerce như ERP, Data Platform, Marketplace, Omni-Channel Retail, WMS, Logistics & Delivery Management.
 
-Năm 2019, **Teko Technology Vietnam JSC.** đã xây dựng ERP cho Phong Vu(https://phongvu.vn/) và mục tiêu năm 2020 là xây dựng ERP cho VNShop (https://vnhsop.vn/), hoàn chỉnh 1 số dịch vụ dùng chung cho Teko và cung cấp ra bên ngoài như: Search, Tracking, Identity và xây dựng nền tảng hạ tầng bền vững, đảm bảo 99.9% Uptime. SOng song với đó, Data Platfrom
+Năm 2019, **Teko Technology Vietnam JSC.** đã xây dựng ERP cho [Phong Vu](https://phongvu.vn/) và mục tiêu năm 2020 là xây dựng ERP cho [VNShop](https://vnhsop.vn/), hoàn chỉnh 1 số dịch vụ dùng chung cho Teko và cung cấp ra bên ngoài như: Search, Tracking, Identity và xây dựng nền tảng hạ tầng bền vững, đảm bảo 99.9% Uptime. SOng song với đó, Data Platfrom
 
 **Tập đoàn VNLIFE** là một hệ sinh thái với nhiều công ty thành viên trong đó có [VNPAY](https://vnpay.vn/), [Tripi](https://www.tripi.vn/), Teko cùng nhiều công ty tại các nước như Singapore, Myanmar, Campuchia… Tập đoàn phát triển với mục tiêu xây dựng hệ sinh thái đa dạng từ Công nghệ - Tài chính & Thương mại điện tử (Tech - Fin - Ecommerce) ứng dụng công nghệ thông tin phục vụ nhiều lĩnh vực: OTA, logistics, ERP, E-commerce… 
 
