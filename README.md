@@ -1,8 +1,7 @@
 ## Introduce about VNLife/ Teko Tech JSC.
 
-**Tập đoàn VNLIFE** là một hệ sinh thái với nhiều công ty thành viên trong đó có [VNPAY](https://vnpay.vn/), [Tripi/Dinogo](https://www.tripi.vn/), Teko cùng nhiều công ty tại các nước như Singapore, Myanmar, Campuchia… Tập đoàn phát triển với mục tiêu xây dựng hệ sinh thái đa dạng từ thương mại, dịch vụ, thanh toán… ứng dụng công nghệ thông tin phục vụ cho nhiều ngành nghề khác nhau trong đó có du lịch, logistics, quản trị doanh nghiệp, thương mại…
-
 > Nằm trong hệ sinh thái của **VNLIFE, Teko Technology Vietnam JSC.** được thành lập vào 13/01/2017 với mục tiêu sử dụng công nghệ giúp bán lẻ đa kênh đơn giản hơn. Đội ngũ giàu kinh nghiệm của Teko làm việc, chia sẻ và đồng hành cùng nhau trong việc phát triển các giải pháp, sản phẩm công nghệ O2O phục vụ cho lĩnh vực New Retail/E-Commerce như ERP, Data Platform, Marketplace, Omni-Channel Retail, WMS, Logistics & Delivery Management.
+**Tập đoàn VNLIFE** là một hệ sinh thái với nhiều công ty thành viên trong đó có [VNPAY](https://vnpay.vn/), [Tripi/Dinogo](https://www.tripi.vn/), Teko cùng nhiều công ty tại các nước như Singapore, Myanmar, Campuchia… Tập đoàn phát triển với mục tiêu xây dựng hệ sinh thái đa dạng từ thương mại, dịch vụ, thanh toán… ứng dụng công nghệ thông tin phục vụ nhiều lĩnh vực: OTA, logistics, ERP, E-commerce…
 Sứ mệnh của VNLIFE trong thời gian tới sẽ là đồng hành, hỗ trợ các startup về mặt công nghệ, xây dựng mạng lưới, vốn để các startup không chỉ lớn mạnh ở thị trường trong nước mà còn hướng đến mục tiêu đưa được sản phẩm của họ đến nhiều quốc gia trên thế giới.
 VNLife hiểu rằng khởi nghiệp đầu tiên quan trọng là vốn, công nghệ rồi sau đó là mô hình quản trị, tham gia chuỗi sinh thái và đưa ra thị trường. Về cơ bản, startup Việt Nam mạnh ở yếu tố ý tưởng, nhân sự tâm huyết còn các yếu tố khác vẫn thiếu.
 
