@@ -20,6 +20,7 @@ Hệ sinh thái VNLife ngày càng đa dạng với sự tăng trưởng của p
 Tháng 7/2019, GIC và Softbank Vision Fund đã đầu tư vào Tập đoàn VNLIFE, thương vụ rót vốn 300 triệu đô đã thu hút nhiều giấy mực của báo chí:
 ![vnlife](https://github.com/hoaitrang13/Jobs-Teko-VNLife/blob/master/Images/vnlife.jpg?raw=true)
 
+
 Bạn quan tâm tới Teko và muốn trở thành Teko-ers để phát triển các product có giá trị cho người Việt Nam? Đội phũ phát triển của Teko không ngừng lỗ lực xây dựng môi trường phát triển sản phẩm và con người toàn diện cũng đang tìm bạn :)
 
 > Bạn là Engineer? Tham khảo các cơ hội tại [Engineer](./Engineer)
