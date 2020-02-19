@@ -17,7 +17,7 @@ Bạn quan tâm tới Teko và muốn trở thành Teko-ers để phát triển 
 
 > Bạn là Engineer? Tham khảo các cơ hội tại [Engineer](./Engineer)
 
-> Bạn quan tâm đến Product/Market? Tham khảo cơ hội tại: [Product](./Product)
+> Bạn quan tâm đến Product/Market? Tham khảo cơ hội tại [Product](./Product)
 
 * Quan tâm tới đội ngũ của Teko/Vnlife - ping hotline: Trang.pth@teko.vn - 038 377 05 12.
 * Fb/[Linkedin](https://www.linkedin.com/in/hoaitrang13/)/skype: hoaitrang13
