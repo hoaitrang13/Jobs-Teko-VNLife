@@ -1,5 +1,5 @@
 # Product Manager
-> Teko is looking for passionate *Product managers* to grow one of our product areas, part of our e-commerce and e-payment platform.
+> Teko is looking for passionate **Product managers** to grow one of our product areas, part of our e-commerce and e-payment platform.
 ### The work
 - Owning a product line, developing and maintaining product vision and strategies to achieve it.
 - Accountable for a clear set of business and product metrics.
