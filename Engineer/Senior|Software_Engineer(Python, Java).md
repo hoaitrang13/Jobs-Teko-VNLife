@@ -1,5 +1,5 @@
-## Senior/ Software Enigneer
-> As a highly motivated **Senior/Software engineer** to join our growing, talented tech engineering team based in both Hanoi or HCM city.
+## Senior/ Software Engineer
+> As a highly motivated **Senior/Software Engineer** to join our growing, talented tech engineering team based in both Hanoi or HCM city.
 
 ### The work:
 - You will be part of an agile team, working closely with product managers, designers and technical leads to ideate, prototype, build and test new products or features. In short, you take ownership of your work and leads the effort from architecture, implementation, deployment and testing.
