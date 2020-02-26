@@ -1,5 +1,5 @@
-## DevOps Engineer
->Teko is looking for a highly motivated **DevOps Engineer**. As a member of the team, you will be exposed to all production services and infrastructure. This allows you to be a major multiplier on Teko’s product velocity. Our goal is to create a culture of service ownership, deploy immutably, and remove manual judgments, while automating the entire process to increase safety and confidence.
+## SRE/DevOps Engineer
+>Teko is looking for a highly motivated **SRE/DevOps engineer**. As a member of the team, you will be exposed to all production services and infrastructure. This allows you to be a major multiplier on Teko’s product velocity. Our goal is to create a culture of service ownership, deploy immutably, and remove manual judgments, while automating the entire process to increase safety and confidence.
 
 ### Your responsibilities:
 - You will be part of an agile team, work with the SA to create a secure, scalable infrastructure for large-scale applications.
@@ -14,10 +14,11 @@
 - Extended experience of software development (Python, Golang, Java) and CI/CD pipelines.
 ### Our current tech stacks:
 - Infrastructure: Linux, Network, Storage (Ceph), Kubernetes on bare metal.
-- CI/CD: Ansible, Spinnaker, Docker.
+- CI/CD: Ansible, Docker, Gitlab CI, Jenkins
 - Application layers: Python, Golang, Java.
 - Distributed systems: Elasticsearch, Apache Spark
-- Databases: MongoDB, Redis, MySQL.
+- Databases: Redis, MySQL, PostgreSQL
+
 ### Benefits:
 - Negotiable salary according to qualification (13th month salary + KPI Bonus) ;
 - The working environment is open, energetic and professional. More opportunities for career promotion;
@@ -25,6 +26,7 @@
 - Full benefit with social insurance. Annual health check and Generali insurance under the company’s own policy;
 - Employee Relationship: company trip, monthly team building;
 - Leave Paid: 12 days for annual leave & 6 days for sick leave (max 18days)
+
 ### Submit your personal document
 > Follow these steps to have a highly appreciated document.
 
