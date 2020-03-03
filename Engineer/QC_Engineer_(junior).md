@@ -31,7 +31,7 @@
 - Kỹ năng làm việc nhóm
 - Kỹ năng phân tích và giải quyết vấn đề
 - Kỹ năng giao tiếp trong nhóm, ngoài nhóm hiệu quả
-- Tư duy logic tốt
+- Tư duy logic tốt^^
 ### Quyền Lợi:
 - Mức lương thỏa thuận theo năng lực (13 tháng lương + thưởng hiệu quả công việc);
 - Chế độ đãi ngộ hấp dẫn cạnh tranh: hỗ trợ cơm trưa, gửi xe, free cafe, daily food....
